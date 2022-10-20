@@ -1,5 +1,10 @@
 # Course #2: Tools for Data Science
 
+<p align="center">
+<img src = "https://github.com/collinbashore/IBM-Data-Science-Professional-Certificate/blob/main/02%20-%20Tools%20for%20Data%20Science/tools-for-data-science.png">
+</p>
+
+
 This course covers the tools and software that Data Science professionals use as a part of their day-to-day jobs. Here are the most important tools that are commonly use in Data Science:
 
 - Jupyter Notebook: [Using Jupyter Notebook on the Internet](https://github.com/collinbashore/IBM-Data-Science-Professional-Certificate/blob/main/02%20-%20Tools%20for%20Data%20Science/Jupyter%20Notebook%20on%20the%20Internet.jpg)
@@ -18,4 +23,4 @@ This final assignment demonstrates the implementation of using Jupyter Notebook 
 
 #### Jupyter Notebook for completed Final assignment
 
-![Introduction to Jupyter Notebook](https://github.com/collinbashore/IBM-Data-Science-Professional-Certificate/blob/main/02%20-%20Tools%20for%20Data%20Science/Introduction%20to%20Jupyter%20Notebook.ipynb)
+Click here to access Jupyter Notebook: [Introduction to Jupyter Notebook](https://github.com/collinbashore/IBM-Data-Science-Professional-Certificate/blob/main/02%20-%20Tools%20for%20Data%20Science/Introduction%20to%20Jupyter%20Notebook.ipynb)
