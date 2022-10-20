@@ -17,7 +17,7 @@ of feedback
 ### Course Syllabus
 
 
-Below is the syllabus of this course:
+
 
 ![Course Syllabus](https://github.com/collinbashore/IBM-Data-Science-Professional-Certificate/blob/main/03%20-%20Data%20Science%20Methodology/Syllabus.png)
 
