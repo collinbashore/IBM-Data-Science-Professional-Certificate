@@ -1,8 +1,7 @@
 # Course #1: What is Data Science?
 
 <p align="center">
-
-![Data Science Orientation Digital Badge](https://github.com/collinbashore/IBM-Data-Science-Professional-Certificate/blob/main/01%20-%20What%20is%20Data%20Science/data-science-orientation.png)
+<img src= "https://github.com/collinbashore/IBM-Data-Science-Professional-Certificate/blob/main/01%20-%20What%20is%20Data%20Science/data-science-orientation.png">
 
 </p>
 
