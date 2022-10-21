@@ -194,7 +194,7 @@ This course can also be found in multiple IBM programs. Completion of this cours
 - [Data Engineering Foundations Specialization](https://www.coursera.org/specializations/data-engineering-foundations)
 - [Data Science Fundamentals with Python and SQL Specialization](https://www.coursera.org/specializations/data-science-fundamentals-python-sql)
 - [IBM Data Analyst Professional Certificate](https://www.coursera.org/specializations/ibm-data-analyst)
-- Introduction to Data Science Specialization](https://www.coursera.org/specializations/introduction-data-science)
+- [Introduction to Data Science Specialization](https://www.coursera.org/specializations/introduction-data-science)
 - [BI Foundations with SQL, ETL, and Data Warehousing Specialization](https://www.coursera.org/specializations/bi-foundations-sql-etl-data-warehouse)
 - [IBM Data Engineering Professional Certificate](https://www.coursera.org/specializations/ibm-data-engineer)
 - [IBM Data Warehouse Engineer Professional Certificate](https://www.coursera.org/specializations/data-warehouse-engineering)
