@@ -32,3 +32,5 @@ of feedback
 This course can be applied to multiple Specializations or Professional Certificates programs. Completing this course will count towards your learning in any of the following programs:
 - [Introduction to IBM Data Science Specialization](https://www.coursera.org/specializations/introduction-data-science)
 - [IBM Data Science Professional Certificate](https://www.coursera.org/specializations/ibm-data-science)
+
+This course can be accessed by clicking on the following link: [Data Science Methodology](https://www.coursera.org/learn/data-science-methodology?specialization=ibm-data-science)
