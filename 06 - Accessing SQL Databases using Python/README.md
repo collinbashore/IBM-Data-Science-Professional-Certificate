@@ -1,7 +1,7 @@
 # Course #6: Databases and SQL for Data Science with Python
 
 <p align="Center">
-<img src = https://github.com/collinbashore/IBM-Data-Science-Professional-Certificate/blob/main/06%20-%20Accessing%20SQL%20Databases%20using%20Python/databases-and-sql-for-data-science.png">
+<img src = https://github.com/collinbashore/IBM-Data-Science-Professional-Certificate/blob/main/06%20-%20Accessing%20SQL%20Databases%20using%20Python/databases-and-sql-for-data-science.png>
 </p>
 
 ## About this Course
