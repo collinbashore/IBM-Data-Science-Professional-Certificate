@@ -5,12 +5,8 @@
 
 </p>
 
-
-
-This is the first course in the IBM Data Science Professional Certificate Program.
-I've included all of the reading material that was provided in the course, which
-represents the topics that were covered in this course. Below is the syllabus of
-the course.
+## About this course
+This is the **first course** in the **IBM Data Science Professional Certificate Program**. I've included all of the reading material that was provided in the course, which represents the topics that were covered in this course. Below is the syllabus of the course.
 
 ### Course 1 Syllabus
 
@@ -24,3 +20,12 @@ Click on the links below to access the reading material provided in the course
 - [Final Deliverable](https://github.com/collinbashore/IBM-Data-Science-Professional-Certificate/blob/main/01%20-%20What%20is%20Data%20Science/Final%20Deliverable.jpg)
 - [Report Structure](https://github.com/collinbashore/IBM-Data-Science-Professional-Certificate/blob/main/01%20-%20What%20is%20Data%20Science/Report%20Structure.jpg)
 - [Regression](https://github.com/collinbashore/IBM-Data-Science-Professional-Certificate/blob/main/01%20-%20What%20is%20Data%20Science/Regression.jpg)
+
+### This course can also be applied to multiple programs
+
+This course can be applied to multiple Specializations or Professional Certificates programs. Completing this course will count towards your learning in any of the following programs:
+
+- [IBM AI Foundations for Business Specialization](https://www.coursera.org/specializations/ibm-ai-foundations-for-business)
+- [Introduction to Data Science Specialization](https://www.coursera.org/specializations/introduction-data-science)
+- [IBM Data Science Professional Certificate](https://www.coursera.org/specializations/ibm-data-science)
+- [Key Technologies for Business Specialization](https://www.coursera.org/specializations/key-technologies-for-business)
