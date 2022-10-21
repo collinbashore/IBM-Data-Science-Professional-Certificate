@@ -3,7 +3,7 @@
 <p align="Center">
 <img src = https://github.com/collinbashore/IBM-Data-Science-Professional-Certificate/blob/main/06%20-%20Accessing%20SQL%20Databases%20using%20Python/databases-and-sql-for-data-science.png">
 </p>
-
+## About this Course
 This course covers SQL (Structured Query Language), which is still the most widely used query language to access databases. Also covered in this course was learning how to access the IBM db2 database using Python. Here are the topics that were covered in the course:
 - Foundation SQL statements like: SELECT, INSERT, UPDATE, DELETE
 - Filter result set, using WHERE, COUNT, DISTINCT, and LIMIT clauses
@@ -197,3 +197,5 @@ This course can also be found in multiple IBM programs. Completion of this cours
 - [BI Foundations with SQL, ETL, and Data Warehousing Specialization](https://www.coursera.org/specializations/bi-foundations-sql-etl-data-warehouse)
 - [IBM Data Engineering Professional Certificate](https://www.coursera.org/specializations/ibm-data-engineer)
 - [IBM Data Warehouse Engineer Professional Certificate](https://www.coursera.org/specializations/data-warehouse-engineering)
+
+Click on the link provided to access this course on Coursera: [Databases and SQL for Data Science with Python](https://www.coursera.org/learn/sql-data-science?specialization=ibm-data-science)
