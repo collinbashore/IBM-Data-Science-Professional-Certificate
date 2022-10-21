@@ -29,3 +29,5 @@ This course can be applied to multiple Specializations or Professional Certifica
 - [Introduction to Data Science Specialization](https://www.coursera.org/specializations/introduction-data-science)
 - [IBM Data Science Professional Certificate](https://www.coursera.org/specializations/ibm-data-science)
 - [Key Technologies for Business Specialization](https://www.coursera.org/specializations/key-technologies-for-business)
+
+Link to this course can be found here: [What is Data Science?](https://www.coursera.org/learn/what-is-datascience?specialization=ibm-data-science)
