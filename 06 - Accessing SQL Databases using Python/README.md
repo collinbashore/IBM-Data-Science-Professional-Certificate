@@ -3,6 +3,7 @@
 <p align="Center">
 <img src = https://github.com/collinbashore/IBM-Data-Science-Professional-Certificate/blob/main/06%20-%20Accessing%20SQL%20Databases%20using%20Python/databases-and-sql-for-data-science.png">
 </p>
+
 ## About this Course
 This course covers SQL (Structured Query Language), which is still the most widely used query language to access databases. Also covered in this course was learning how to access the IBM db2 database using Python. Here are the topics that were covered in the course:
 - Foundation SQL statements like: SELECT, INSERT, UPDATE, DELETE
