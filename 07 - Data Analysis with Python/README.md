@@ -1,9 +1,9 @@
 # Course #7: Data Analysis with Python
 <p align = "center">
-    <img src = "data-analysis-with-python.png">
+    <img src = "https://github.com/collinbashore/IBM-Data-Science-Professional-Certification/blob/main/07%20-%20Data%20Analysis%20with%20Python/data-analysis-with-python.png">
 </p>
 
-## Project: [House Sales Analysis in King County, USA](House_Sales_in_King_Count_USA.ipynb)
+## Project: [House Sales Analysis in King County, USA](https://github.com/collinbashore/IBM-Data-Science-Professional-Certification/blob/main/07%20-%20Data%20Analysis%20with%20Python/House_Sales_in_King_Count_USA.ipynb)
 ### Overview of Dataset
 This dataset contains house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015.
 
@@ -41,9 +41,9 @@ Link to dataset: [House Sales Dataset](https://www.kaggle.com/datasets/harlfoxem
 ![scikit-learn](https://img.shields.io/badge/ML-scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white&color=008080)
 
 ### Exploratory Data Analysis
-![waterfront_vs_price_boxplot](waterfront_vs_price_boxplot.JPG)
+![waterfront_vs_price_boxplot](https://github.com/collinbashore/IBM-Data-Science-Professional-Certification/blob/main/07%20-%20Data%20Analysis%20with%20Python/waterfront_vs_price_boxplot.JPG)
 
-![sqft_above-vs-price regression plot](sqft_above_vs_price_regression_plot.JPG)
+![sqft_above-vs-price regression plot](https://github.com/collinbashore/IBM-Data-Science-Professional-Certification/blob/main/07%20-%20Data%20Analysis%20with%20Python/sqft_above_vs_price_regression_plot.JPG)
 
 ### Model Deployment, Evaluation, and Refinement 
 - Linear Regression
@@ -74,4 +74,4 @@ Link to dataset: [House Sales Dataset](https://www.kaggle.com/datasets/harlfoxem
 - Homes that do not have a view to a watefront has more outliers than the homes that do have a waterfront
 - Homes with a waterfront view are priced higher than the homes with no waterfront
 - House prices tend to increase as the square footage of homes increase (correlation = 0.702)
-- The Model that best predicts the house prices ($R^{2}$ = 0.7003) uses both Multivariate Polynomial Regression (order = 2) along with Ridge Regression
+- The Model that best predicts the house prices uses both Multivariate Polynomial Regression (order = 2) along with Ridge Regression
