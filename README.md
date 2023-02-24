@@ -41,7 +41,7 @@ Course 5|[Python Project for Data Science](https://github.com/collinbashore/IBM-
 Course 6|[Databases and SQL for Data Science with Python](https://github.com/collinbashore/IBM-Data-Science-Professional-Certificate/tree/main/06%20-%20Accessing%20SQL%20Databases%20using%20Python)|
 Course 7|[Data Analysis with Python](https://github.com/collinbashore/IBM-Data-Science-Professional-Certification/tree/main/07%20-%20Data%20Analysis%20with%20Python)|
 Course 8|[Data Visualization with Python](https://github.com/collinbashore/IBM-Data-Science-Professional-Certification/tree/main/08%20-%20Data%20Visualization%20with%20Python)|
-Course 9|Machine Learning with Python|
+Course 9|[Machine Learning with Python](https://github.com/collinbashore/IBM-Data-Science-Professional-Certification/blob/main/09%20-%20Machine%20Learning%20with%20Python/README.md)|
 Course 10|Applied Data Science Capstone|
 
 **NOTE:** Courses 4 and 5 are considered to be one full course, where Course 5 includes a project that implements the material learned in Course 4&#10071;
