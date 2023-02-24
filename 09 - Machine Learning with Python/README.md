@@ -3,7 +3,7 @@
     <img src = "machine-learning-with-python.png">
 </p>
 
-## Project: Rainfall in Australia Prediction Classification Project
+## Project: [Rainfall in Australia Prediction Classification Project](https://github.com/collinbashore/IBM-Data-Science-Professional-Certification/blob/main/09%20-%20Machine%20Learning%20with%20Python/Rainfall%20Machine%20Learning%20Project.ipynb)
 ### Project Overview
 This project utilizes four classification algorithms used to predict wether it'll rain tomorrow (the next day) or not using the dataset from the Daily Weather Observation page on the Australian Government's Bureau of Meteorology website. Based on the four different classification algorithms used, the **Logistic Regression** performs the best and presents the highest accuracy that it'll rain the next day.
 
