@@ -61,14 +61,15 @@ def get_pie_chart(entered_site):
     if entered_site == 'ALL Sites':
         launches_df = spacex_df.groupby(['Launch Site'])['class'].sum().to_frame()
         launches_df = launches_df.reset_index()
-        fig = px.pie(launches_df, values='class', 
-                     names='Launch Site', 
-                     title='Total Success Launches By Site')
+        fig = px.pie(launches_df, values='class', names='Launch Site', 
+                     title='Total Success Launches By Site',
+                     color_discrete_sequence = ['blue', 'darkorchid', 'darkorange', 'gold'])
     else:
         launches_df = spacex_df[spacex_df['Launch Site'] == entered_site]['class'].sum().to_frame()
         launches_df['name'] = ['Failure', 'Success']
-        fig = px.pie(launches_df, values='class', names='name', 
-                     title='Total Success Launches for' + entered_site)
+        fig = px.pie(launches_df, values='class', names='name',
+                     title='Total Success Launches for' + entered_site,
+                     color_discrete_sequence = ['blue', 'darkorchid'])
     return fig
     
 # Add a callback function for `site-dropdown` and `payload-slider` as inputs, `success-payload-scatter-chart` as output
@@ -82,13 +83,14 @@ def get_scatter_plot(entry1, entry2):
         filtered_df2 = filtered_df[filtered_df["Payload Mass (kg)"] >= entry2[0]]
         filtered_df3 = filtered_df2[filtered_df["Payload Mass (kg)"] <= entry2[1]]
         fig2 = px.scatter(filtered_df3, x="Payload Mass (kg)", y="class", color="Booster Version Category",
-                          title = "Correlation Between Payload and Success for ALL Sites")
+                          title = "Correlation Between Payload and Success for ALL Sites",
+                          color_discrete_sequence = ['blue', 'darkorchid', 'mediumslateblue','darkorange', 'mediumvioletred'])
     else:
         filtered_df = spacex_df[spacex_df["Launch Site"] == entry1]
         filtered_df2 = filtered_df[filtered_df["Payload Mass (kg)"] >= entry2[0]]
         filtered_df3 = filtered_df2[filtered_df["Payload Mass (kg)"]>= entry2[1]]
         fig2 = px.scatter(filtered_df3, x="Payload Mass (kg)", y="class", color="Booster Version Category",
-                          title = "Correlation Between Payload and Success for" + entry1)
+                          title = "Correlation Between Payload and Success for " + entry1)
     
     return fig2
 
