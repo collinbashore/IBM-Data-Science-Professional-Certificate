@@ -64,7 +64,7 @@ def get_pie_chart(entered_site):
         return fig
     else:
         launches_df = spacex_df.loc[spacex_df['Launch Site'] == entered_site]
-        fig = px.pie(launches_df, names='class', title='Total Success Launches for' + entered_site,
+        fig = px.pie(launches_df, names='class', title='Total Success Launches for ' + entered_site,
                      color_discrete_sequence = ['blue', 'darkorange'])
         return fig
     
