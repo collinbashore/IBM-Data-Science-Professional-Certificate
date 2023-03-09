@@ -1,4 +1,4 @@
-# Course #10: Applied Data Science Capstone
+# Course #10: [Applied Data Science Capstone](https://github.com/collinbashore/IBM-Data-Science-Professional-Certification/blob/main/10%20-%20Capstone%20Project/Data-Science-Capstone-Collin.pdf)
 
 <p align="center">
     <img src = "https://github.com/collinbashore/IBM-Data-Science-Professional-Certification/blob/main/10%20-%20Capstone%20Project/Data%20Sciecne%20Capstone%20Project%20Cover%20Slide.JPG">
