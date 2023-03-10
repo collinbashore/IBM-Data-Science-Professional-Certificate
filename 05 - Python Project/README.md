@@ -38,3 +38,8 @@ These stock dashboards were produced using the [Python Plotly library](https://p
 
 #### GameStop (GME) Stock Dashboard
 <img src = "https://github.com/collinbashore/IBM-Data-Science-Professional-Certification/blob/main/05%20-%20Python%20Project/GameStop%20Stock%20Dashboard.png">
+
+## Certificate and Badge Section
+Click on the images below to verify the certificate and badge earned<br><br>
+[![](https://github.com/collinbashore/IBM-Data-Science-Professional-Certification/blob/main/05%20-%20Python%20Project/python-project-for-data-science.png)](https://www.credly.com/badges/fbe141bc-9ad0-4059-b896-af018e7f6faa/public_url)
+[![](https://github.com/collinbashore/IBM-Data-Science-Professional-Certification/blob/main/05%20-%20Python%20Project/IBM%20Python%20Project%20for%20Data%20Science%20Coursera%20Certificate.jpg)](https://coursera.org/verify/3G6HVZTAL6EK)
