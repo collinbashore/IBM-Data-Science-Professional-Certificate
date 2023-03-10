@@ -1,7 +1,4 @@
 # Course #9: Machine Learning with Python
-<p align="center">
-    <img src = "machine-learning-with-python.png">
-</p>
 
 ## Project: [Rainfall in Australia Classification Project](https://github.com/collinbashore/IBM-Data-Science-Professional-Certification/blob/main/09%20-%20Machine%20Learning%20with%20Python/Rainfall%20Machine%20Learning%20Project.ipynb)
 ### Project Overview
@@ -111,3 +108,8 @@ Since the assignment required that I perform a linear Regression model, let's se
 According to the above metrics, there seems to be roughly a 43% variation of the RainTomorrow classifier that can be explained by the amount of Rainfall on a particular day. 
 
 Again, since the data points are not evenly scattered aroud the fitted regression line, the metrics above are not useful to use.
+
+## Certification and Badge
+Click on the images below to verify certiifcation and badge earned<br><br>
+[![](https://github.com/collinbashore/IBM-Data-Science-Professional-Certification/blob/main/09%20-%20Machine%20Learning%20with%20Python/machine-learning-with-python.png)](https://www.credly.com/badges/22d7138d-526a-4984-b6dc-4a49e3cfd4f6/public_url)
+[![](https://github.com/collinbashore/IBM-Data-Science-Professional-Certification/blob/main/09%20-%20Machine%20Learning%20with%20Python/IBM%20Machine%20Learning%20with%20Python%20HONORS%20Certificate.jpg)](https://coursera.org/verify/NFAWKN4VU35M)
