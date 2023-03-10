@@ -51,5 +51,6 @@ Link to this Professional Certification Program is provided **<u>[here](https://
 ## Certificate and Badge
 Click on the images below to verify the certificate and badge earned <br><br>
 [![](data-science-professional-certificate.png)](https://www.credly.com/badges/48c39f1c-22cd-4c31-93db-d4d5e1cd8529/public_url)
-[![](IBM Data Science Professional Certificate Official.jpg)](https://coursera.org/verify/professional-cert/HCLNRC345TW4)
+
+[![](https://github.com/collinbashore/IBM-Data-Science-Professional-Certification/blob/main/IBM%20Data%20Science%20Professional%20Certificate%20Official.jpg)](https://coursera.org/verify/professional-cert/HCLNRC345TW4)
 
