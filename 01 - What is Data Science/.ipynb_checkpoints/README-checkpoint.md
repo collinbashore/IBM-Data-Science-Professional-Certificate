@@ -29,4 +29,4 @@ Link to this course can be found here: [What is Data Science?](https://www.cours
 ## Certification and Badge
 Click on the images below to verify the certifate and badge earned<br><br>
 [![](https://github.com/collinbashore/IBM-Data-Science-Professional-Certification/blob/main/01%20-%20What%20is%20Data%20Science/data-science-orientation.png)](https://www.credly.com/badges/9e244596-d2e5-41dd-844a-76bf874751c3/public_url)
-[![](https://github.com/collinbashore/IBM-Data-Science-Professional-Certification/blob/main/01%20-%20What%20is%20Data%20Science/IBM%20What%20is%20Data%20Science%20Coursera%20Certificate.pdf)](https://coursera.org/verify/AS597WCVZD2P)
+[![](https://github.com/collinbashore/IBM-Data-Science-Professional-Certification/blob/main/01%20-%20What%20is%20Data%20Science/IBM%20What%20is%20Data%20Science%20Coursera%20Certificate.jpg)](https://coursera.org/verify/AS597WCVZD2P)
