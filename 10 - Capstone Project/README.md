@@ -46,3 +46,7 @@ Tasked as a Data Scientist in a space startup company, Space Y, to develop and t
 - Four machine learning models were used for predictive analysis: Logistic Regression, Support Vector Machines, Decision Tree Classifier, and K Nearest Neighbors (KNN). All models (except for KNN – 77.78%) produced similar results around 83.33% accuracy rate. All models over predicted true successful landings.
 
 - More data will be required for better model determination (dataset used had only 90 records) since the test dataset only has 18 samples.
+## Certificate and badge
+Click on the images below to verify the course certificate and badge earned.
+[![](https://coursera.org/verify/SN9UZ47QBGET)](Data-Science-Capstone-Collin.pdf)
+[![](https://www.credly.com/badges/85229465-4ca6-40a8-a128-c82214974553/public_url)](Data-Science-Capstone-Collin.pdf)
