@@ -1,15 +1,18 @@
-# Course #10: Applied Data Science Capstone
+# Course #10: [Applied Data Science Capstone](https://github.com/collinbashore/IBM-Data-Science-Professional-Certification/blob/main/10%20-%20Capstone%20Project/Data-Science-Capstone-Collin.pdf)
 
 <p align="center">
     <img src = "https://github.com/collinbashore/IBM-Data-Science-Professional-Certification/blob/main/10%20-%20Capstone%20Project/Data%20Sciecne%20Capstone%20Project%20Cover%20Slide.JPG">
 </p>
 
 ## Project Overview
-During the existing commercial space age, companies such as Blue Orgin and Starlink are wanting to make space travel more afforadable for everyone. Space X, compared to other companies, conducts the most expensive launches (62 million USD vs. 165 million USD). This is because Space X is able to recover rocket parts during Stage One landings.
+During the existing and ongoing commercial space age, companies such as Space X, Blue Origin, Virgin Galatic, and Starlink are wanting to make space travel more afforadable for everyone. Space X, compared to other companies, conduct the most inexpensive launches (62 million USD vs. 165 million USD). This is because Space X is able to recover rocket parts during Stage One landings.
 
-A space company, called Space Y, wants to compete with Space X to dtrain a machine learning model to predict successful Stage One recovery. If there appears to be a high amount of successful landings, Space Y could use the model to predict whether a launch will have successful Stage One landing before determining whether a launch should be made or not.
+A space startup company, called Space Y, wants to compete with Space X to train a machine learning model to predict successful Stage One recovery. If there appears to be a high amount of successful landings, Space Y could use the model to predict whether a launch will have successful Stage One landing before determining whether a launch should be made or not.
 
-### Project Tasks
+## Goal
+Tasked as a Data Scientist in a space startup company, Space Y, to develop and train a machine learning model to determine whether a launch should be made depending if the rocket launchs had a successful Stage One outcome or not. 
+
+## Project Tasks
 - **Week 1:** [Data Collection, Web Scraping, and Data Wrangling](https://github.com/collinbashore/IBM-Data-Science-Professional-Certification/tree/main/10%20-%20Capstone%20Project/Week%201%20Data%20Cleaning%20-%20Webscraping%20-%20Data%20Wrangling)
     - Data Collection via Space X API
     - Data Collection vis Web Scraping
