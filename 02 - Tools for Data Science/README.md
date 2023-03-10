@@ -1,9 +1,5 @@
 # Course #2: Tools for Data Science
 
-<p align="center">
-<img src = "https://github.com/collinbashore/IBM-Data-Science-Professional-Certificate/blob/main/02%20-%20Tools%20for%20Data%20Science/tools-for-data-science.png">
-</p>
-
 ## About this Course
 
 This course covers the tools and software that Data Science professionals use as a part of their day-to-day jobs. Here are the most important tools that are commonly use in Data Science, and are the most important in order to become successful in Data Science:
@@ -35,4 +31,4 @@ Link to this course can be found here: [Tools for Data Science](https://www.cour
 ## Certificate and Badge
 Click on the images below to verify the certifcate and badge earned<br><br>
 [![](https://github.com/collinbashore/IBM-Data-Science-Professional-Certification/blob/main/02%20-%20Tools%20for%20Data%20Science/tools-for-data-science.png)](https://www.credly.com/badges/c932f612-f719-488c-ba2a-acb4f3710db5/public_url)
-[![](IBM Tools for Data Science Coursera Certificate.jpg)](https://coursera.org/verify/85ZWHENXKUKS)
+[![](https://github.com/collinbashore/IBM-Data-Science-Professional-Certification/blob/main/02%20-%20Tools%20for%20Data%20Science/IBM%20Tools%20for%20Data%20Science%20Coursera%20Certificate.jpg)](https://coursera.org/verify/85ZWHENXKUKS)
