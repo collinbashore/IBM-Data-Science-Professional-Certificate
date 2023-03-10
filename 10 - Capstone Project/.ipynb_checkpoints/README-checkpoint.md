@@ -47,6 +47,6 @@ Tasked as a Data Scientist in a space startup company, Space Y, to develop and t
 
 - More data will be required for better model determination (dataset used had only 90 records) since the test dataset only has 18 samples.
 ## Certificate and badge
-Click on the images below to verify the course certificate and badge earned.
-[![](https://coursera.org/verify/SN9UZ47QBGET)](Data-Science-Capstone-Collin.pdf)
-[![](https://www.credly.com/badges/85229465-4ca6-40a8-a128-c82214974553/public_url)](Data-Science-Capstone-Collin.pdf)
+Click on the images below to verify the course certificate and badge earned. <br><br>
+[![](https://github.com/collinbashore/IBM-Data-Science-Professional-Certification/blob/main/10%20-%20Capstone%20Project/IBM%20Applied%20Data%20Science%20Capstone%20Coursera%20Certificate.pdf)](https://coursera.org/verify/SN9UZ47QBGET)
+[![](https://github.com/collinbashore/IBM-Data-Science-Professional-Certification/blob/main/10%20-%20Capstone%20Project/applied-data-science-capstone.1.png)](https://www.credly.com/badges/85229465-4ca6-40a8-a128-c82214974553/public_url)
